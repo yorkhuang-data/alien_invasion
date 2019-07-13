@@ -1,0 +1,2 @@
+#!/usr/bin/env python 
+exec(open("alien_invasion.py").read(), globals())

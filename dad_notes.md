@@ -51,3 +51,40 @@
     13-4. Steady Rain: Modify your code in Exercise 13-3 so that when a row of
     raindrops disappears off the bottom of the screen, a new row appears at the
     top of the screen and begins to fall.
+    
+### Try It Yourse lf
+
+    13-5. Catch: Create a game that places a character that you can move left and
+    right at the bottom of the screen. Make a ball appear at a random position at
+    the top of the screen and fall down the screen at a steady rate. If your charac-
+    ter “catches” the ball by colliding with it, make the ball disappear. Make a new
+    ball each time your character catches the ball or whenever the ball disappears
+    off the bottom of the screen.
+    
+### Try It Yourse lf
+
+    13-6. Game Over: Using your code from Exercise 13-5 (page 284), keep track
+    of the number of times the player misses the ball. When they’ve missed the ball
+    three times, end the game.
+    
+### Try It Yourse lf
+    14-1. Press P to Play: Because Alien Invasion uses keyboard input to control the
+    ship, it’s best to start the game with a keypress. Add code that lets the player
+    press P to start. It may help to move some code from check_play_button() to a
+    start_game() function that can be called from both check_play_button() and
+    check_keydown_events() .
+    14-2. Target Practice: Create a rectangle at the right edge of the screen that
+    moves up and down at a steady rate. Then have a ship appear on the left
+    side of the screen that the player can move up and down while firing bullets
+    at the moving, rectangular target. Add a Play button that starts the game, and
+    when the player misses the target three times, end the game and make the Play
+    button reappear. Let the player restart the game with this Play button.
+    
+    
+### Try It Yourse lf
+
+    14-3. Challenging Target Practice: Start with your work from Exercise 14-2
+    (page 298). Make the target move faster as the game progresses, and restart
+    at the original speed when the player clicks Play.
+    
+    
